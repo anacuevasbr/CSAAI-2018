@@ -1,0 +1,31 @@
+video{
+  height:150px;
+  border-style: solid;
+  border-width: 5px;
+  border-color: black;
+}
+#canvas-container {
+   width: 100%;
+   text-align:center;
+}
+
+#video-container {
+   width: 100%;
+   text-align:center;
+}
+
+#control-container {
+   width: 100%;
+   text-align:center;
+}
+p{
+  color: white;
+}
+canvas {
+   display: inline;
+  align-self: center;
+}
+body {
+    background: black;
+    align-content: center;
+}
